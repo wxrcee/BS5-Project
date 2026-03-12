@@ -1,4 +1,5 @@
-# Bootstrap demo page
+# BS demo page
 
 ## Development:
  - Visual studio code
+
